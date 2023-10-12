@@ -1,7 +1,40 @@
-## Olá, eu sou Jeferson Borda, desenvolvedor Mobile / FullStack
 
 
-  
+### Hi there, I'm Jeferson Borda
+
+- I've three degrees in Development and am currently doing a postgraduate course in Mobile Specialist
+
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" />
+
+<div />
+
+## ⚡ Technologies and Tools ⚡
+
+These are some of the technologies and tools that I work with:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-0075F2?style=flat-square&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-2496ED?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
+![GraphQl](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![K8S](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![bibucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+
 <div style="display: inline_block"><br>
   
   <div align="center">
@@ -9,18 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffmnb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmnb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jeff-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="Jeff-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Jeff-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   
 </div>
   
