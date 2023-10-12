@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Jeferson Borda
+### Hi there 👋🏻, I'm Jeferson Borda
 
 - I've three degrees in Development and am currently doing a postgraduate course in Mobile Specialist
 
@@ -38,11 +38,13 @@ These are some of the technologies and tools that I work with:
 <br/>
 
 <div style="display: inline_block"><br>
+
+
   
   <div align="center">
   <a href="https://github.com/jeffmnb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffmnb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmnb&layout=compact&theme=dracula"/>
+   
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeffmnb?cardType=github&preferLogin=false&Ring=E4E4E2&Background=282A35&Border=E4E4E2&Text=E4E4E2&Title=E4E4E2)](https://git.io/awesome-stats-card)
 </div>
 
 </div>
