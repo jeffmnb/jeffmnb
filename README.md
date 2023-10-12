@@ -35,12 +35,24 @@ These are some of the technologies and tools that I work with:
 ![bibucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
+<br/>
+
 <div style="display: inline_block"><br>
   
   <div align="center">
   <a href="https://github.com/jeffmnb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffmnb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmnb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffmnb&layout=compact&theme=dracula"/>
+</div>
+
+</div>
+  
+<br/>
+
+<div align="left">
+
+## 🏆 GitHub Trophies
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=jeffmnb&title=Joined2020,Repositories,Experience,Commits&theme=nord)
 </div>
   
 </div>
