@@ -38,8 +38,6 @@ These are some of the technologies and tools that I work with:
 <br/>
 
 <div style="display: inline_block"><br>
-
-
   
   <div align="center">
   <a href="https://github.com/jeffmnb">
