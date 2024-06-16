@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻, I'm Jeferson Borda
 
-- FullStack Developer and Mobile Specialist
+- FullStack and Mobile Specialist
 
 <img src="https://raw.githubusercontent.com/jeffmnb/jeffmnb/main/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" />
 
