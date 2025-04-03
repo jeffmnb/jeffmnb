@@ -53,7 +53,7 @@ These are some of the technologies and tools that I work with:
 <div align="left">
 
 ## 🏆 GitHub Trophies
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=jeffmnb&title=Joined2020,Repositories,Experience,Commits&theme=nord)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=jeffmnb&title=Joined2020,Repositories,Experience&theme=nord)
 </div>
   
 </div>
